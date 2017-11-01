@@ -13,5 +13,5 @@ We are going to implement:
 -  removeAll(): Remove all nodes
 -  remove(at: Int): Remove a node in a specific index
 
-**** This is still in progress and it is used to practice.
+*This is still in progress and it is used to practice.*
 
