@@ -1,10 +1,11 @@
 # Singly Linked List - Swift
 This is just one way to implement this kind of list.
 We are going to implement:
-Node:
+
+**Node**:
  - With a value and its next Node (if it exists)
 
-LinkedList:
+**LinkedList**:
 -  head: the head of the list
 -  tail: the tail of the list
 -  isEmpty: retuns if the list is empty or not
